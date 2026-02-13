@@ -16,6 +16,14 @@ To deploy this Dual bot You will see Two Folders that Names are Like **bot1, bot
 
 # Get Your SESSION_ID for Whatsapp Bot Deploy
 
-Visit `https://asitha.top/bots` to Get your SESSION_ID for FREE...🔥
+  <h3 style="color: #FF0000;">🔑 Get The Session ID</h3>
+  <a href="https://asitha.top/bots/" target="_blank">
+    <img src="https://img.shields.io/badge/GET%20SESSION-CLICK%20HERE-000000?style=for-the-badge&logo=whatsapp&logoColor=red&height=55" alt="Get Session">
+  </a>
+</div>
+</br>
+
+
 
 ***Code Owner*** `Mr.Sahan Chamod`
+***Repo Creater*** `Mr.Sahan Dissanayaka`
